@@ -1,2 +1,1 @@
-# mmorpg
-MMoRPG
+mmorpg project created!
